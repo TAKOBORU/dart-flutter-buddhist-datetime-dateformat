@@ -1,4 +1,4 @@
-name: buddhist_datetime_dateformat_sns
+name: buddhist_datetime_dateformat_new
 description: A dart package that help developer get DateTime's year in Buddhist calendar format, also support DateFormatter
 version: 1.0.6
 homepage: https://github.com/teerasej/dart-flutter-buddhist-datetime-dateformat
